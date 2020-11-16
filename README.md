@@ -1,5 +1,6 @@
 ### Hi there, I'm Evan 👋
 
+- I'm a High School senior who goes to the North Carolina School of Science and Mathematics
 - I'm interested in computer science, specifically:
   - 🌐 Web Development: Django, Flask, HTML, CSS, Javascript, React || Interests: Websites, Convenience Applications
   - 📈 Data Science (Python): Tensorflow (Neural Networks), Pandas, Scikit-learn || Interests: Real-World Trends, Intersection between CS and Economics
