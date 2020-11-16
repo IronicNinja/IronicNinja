@@ -25,4 +25,4 @@ I'm a High School Senior who goes to the North Carolina School of Science and Ma
 **A bit more info**
 - 🐍 My favorite (and most proficient) language is definitely Python: great community, excellent documentation, overall easy to work with.
 - 👯 Feel free to reach out to me if you have any project you think I could help with! The best way to reach me is probably email at zhang21evan@ncssm.edu
-- ⚡ In my free time, I: play ping pong, watch/play Minecraft, read books on business/entrepreneurship, sleep!
+- ⚡ In my free time, I: play ping pong, watch/play Minecraft, read books on business/entrepreneurship, relax!
