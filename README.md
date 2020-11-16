@@ -1,6 +1,6 @@
 ### Hi there, I'm Evan 👋
 
-I'm a High School Senior who goes to the North Carolina School of Science and Mathematics.
+I'm a High School Senior who goes to the North Carolina School of Science and Mathematics 🏫.
 
 **I 💗**:
   - 🌐 Web Development: 
@@ -20,7 +20,9 @@ I'm a High School Senior who goes to the North Carolina School of Science and Ma
     - COVID-19 Information Web Scraper: https://github.com/IronicNinja/covid19api
     - Productivity Tracker with Clockify API: https://github.com/IronicNinja/ClockifyAPI
     - Automated Bots: https://github.com/IronicNinja/automation
+    - An Among Us Maze?!?: https://github.com/IronicNinja/amongus-maze
   
 **A bit more info**
+- 🐍 My favorite (and most proficient) language is definitely Python: great community, excellent documentation, overall easy to work with.
 - 👯 Feel free to reach out to me if you have any project you think I could help with! The best option is probably email at zhang21evan@ncssm.edu
 - ⚡ In my free time, I: play ping pong, watch/play Minecraft, read books on business/entrepreneurship, sleep!
