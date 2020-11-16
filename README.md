@@ -1,19 +1,17 @@
 ### Hi there, I'm Evan 👋
 
-- I'm a High School senior who goes to the North Carolina School of Science and Mathematics
-- I'm interested in computer science, specifically:
-  - 🌐 Web Development: Django, Flask, HTML, CSS, Javascript, React || Interests: Websites, Convenience Applications
-  - 📈 Data Science (Python): Tensorflow (Neural Networks), Pandas, Scikit-learn || Interests: Real-World Trends, Intersection between CS and Economics
-  - 🤖 Bot Automation:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a High School Senior who goes to the North Carolina School of Science and Mathematics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**I 💗**:
+  - 🌐 Web Development: 
+    - Languages: Django, Flask, HTML, CSS, Javascript, React
+    - Main Interests: Websites, Convenience Applications
+    - Soji Website: https://soji-website.herokuapp.com/ || https://github.com/IronicNinja/soji-website
+    - Automatic Stock Scraper: https://stock-scraper-multi.herokuapp.com/ || https://github.com/IronicNinja/stock-scraper-multi
+  - 📈 Data Science (Python): 
+    - Languages: Tensorflow (Neural Networks), Pandas, Scikit-learn || Interests: Real-World Trends, Intersection between CS and Economics
+  - 🤖 Software Development: Web Scraping Scripts, Bot Automation, Interactive GUIs
+  
+**A bit more info**
+- 👯 Feel free to reach out to me if you have any project you think I could help with! The best option is probably email at zhang21evan@ncssm.edu
+- ⚡ In my free time, I: play ping pong, watch/play Minecraft, read books on business/entrepreneurship, sleep!
