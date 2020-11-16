@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Evan 👋
 
-<!--
-**IronicNinja/IronicNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- I'm interested in computer science, specifically:
+  - 🌐 Web Development: Django, Flask, HTML, CSS, Javascript, React || Interests: Websites, Convenience Applications
+  - 📈 Data Science (Python): Tensorflow (Neural Networks), Pandas, Scikit-learn || Interests: Real-World Trends, Intersection between CS and Economics
+  - 🤖 Bot Automation:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
