@@ -29,7 +29,7 @@ I'm a High School Senior who goes to the North Carolina School of Science and Ma
 
 **Want Other Random Stats?**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21058%20lines%20of%20code-blue)
 
@@ -60,7 +60,7 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
