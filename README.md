@@ -33,18 +33,6 @@ I'm a High School Senior who goes to the North Carolina School of Science and Ma
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21058%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 272 Contributions in the Year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -71,31 +59,10 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             █████████████░░░░░░░░░░░░   54.55% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-
-```
-
 
 **Timeline**
 
