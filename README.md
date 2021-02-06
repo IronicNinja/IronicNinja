@@ -29,7 +29,7 @@ I'm a High School Senior who goes to the North Carolina School of Science and Ma
 
 **Want Other Random Stats?**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39726%20lines%20of%20code-blue)
 
@@ -60,11 +60,11 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 31 mins      ████████████████████████░   97.93% 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Python                   11 hrs 6 mins       ████████████████████████░   97.14% 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
