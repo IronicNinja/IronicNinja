@@ -1,6 +1,6 @@
 ### Hi there, I'm Evan 👋
 
-I'm a High School Senior who goes to the North Carolina School of Science and Mathematics 🏫.
+I'm currently a high school senior who goes to the North Carolina School of Science and Mathematics 🏫, but I'll be attending Carnegie Mellon University's School of Computer Science in the upcoming fall as part of the Class of 2025!
 
 **I 💗**:
   - 🌐 Web Development: 
