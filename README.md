@@ -27,6 +27,7 @@ I'm currently a high school senior who goes to the North Carolina School of Scie
 - ⚡ In my free time, I: play ping pong, watch/play Minecraft and Valorant, read books on business/entrepreneurship, relax! I also love cooking, listening to music, alongside much, much more.
 - 👯 Feel free to reach out to me if you have any project you think I could help with! The best way to reach out to me professionally is sending me an email. My email is meevanzhang@gmail.com.
 - 🔊 Wanna casually chat? Add me as a friend on Discord: clc #4170.
+- Or check out my other personal accounts <a href="https://docs.google.com/document/d/1Nk8T5-1BLvnKRVw6jse7EIp6_Ajn64bDmRJhdkNnQ40"><b>here!</b></a>
 
 **Want Other Random Stats?**
 <!--START_SECTION:waka-->
