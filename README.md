@@ -11,7 +11,7 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
     - Automatic Stock Scraper: https://stock-scraper-multi.herokuapp.com/ **||** https://github.com/IronicNinja/stock-scraper-multi
   - 📈 Data Science: 
     - Languages: Python, C++
-    - Python Packages: Tensorflow (Neural Networks), Pandas, Scikit-learn
+    - Python Packages: Tensorflow (Neural Networks), Pandas, Scikit-learn, Plotly
     - Interests: Neural Networks for Time Series Predictions, Reinforcement Learning, Intersection between CS and Economics
     - For my Data Science projects, visit my Kaggle Account: https://www.kaggle.com/ironicninja
   - 🤖 Software Development: 
