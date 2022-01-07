@@ -4,18 +4,19 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 
 **I 💗**:
   - 🌐 Web Development: 
-    - Front End Languages: HTML, CSS, Javascript, React
-    - Back End Languages: Django, Flask, SQL & Databases (PostgreSQL, Redis)
+    - Front-end Experience: HTML & CSS, Javascript (DOM, React), Figma
+    - Back-end Experience: Django & Flask, SQL & Databases (PostgreSQL, Redis, Firebase), Deployment (Heroku)
     - Main Interests: Websites, Convenience Web Applications
-    - Soji Website: https://soji-website.herokuapp.com/ **||** https://github.com/IronicNinja/soji-website
-    - Automatic Stock Scraper: https://stock-scraper-multi.herokuapp.com/ **||** https://github.com/IronicNinja/stock-scraper-multi
+    - Video Annotation Tool (React): https://cmu-social-annotation-tool.firebaseapp.com/ **||** https://github.com/IronicNinja/annotv2
+    - Soji Website (Flask): https://soji-website.herokuapp.com/ **||** https://github.com/IronicNinja/soji-website
+    - Automatic Stock Scraper (Flask, deprecated): https://stock-scraper-multi.herokuapp.com/ **||** https://github.com/IronicNinja/stock-scraper-multi
   - 📈 Data Science: 
     - Languages: Python, C++
     - Python Packages: Tensorflow (Neural Networks), Pandas, Scikit-learn, Plotly
     - Interests: Neural Networks for Time Series Predictions, Reinforcement Learning, Intersection between CS and Economics
     - For my Data Science projects, visit my Kaggle Account: https://www.kaggle.com/ironicninja
   - 🤖 Software Development: 
-    - Languages: Python, Java
+    - Languages: Python, Java, C
     - Interests: Web Scraping Scripts, Bot Automation, Interactive GUIs
     - COVID-19 Information Web Scraper: https://github.com/IronicNinja/covid19api
     - Productivity Tracker with Clockify API: https://github.com/IronicNinja/ClockifyAPI
