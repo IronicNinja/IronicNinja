@@ -29,7 +29,7 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 - 🔊 Wanna casually chat? Add me as a friend on Discord: clc #4170.
 - Or check out my other personal accounts <a href="https://linktr.ee/IronicNinja"><b>here!</b></a>
 
-**Want Other Random Stats?**
+**Want Other Random Stats from the Past 2 Weeks?**
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
