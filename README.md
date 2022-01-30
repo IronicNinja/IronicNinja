@@ -32,6 +32,8 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 
 **Want other random stats? It's kinda bugged, sorry.**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
@@ -63,11 +65,11 @@ Sunday       28 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 35 mins       █████████████░░░░░░░░░░░░   52.69% 
-CSS                      1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87% 
-JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+JavaScript               44 mins             █████████████░░░░░░░░░░░░   52.59% 
+CSS                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+C++                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 ```
 
@@ -76,5 +78,5 @@ Markdown                 4 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 13:24:15 UTC
+ Last Updated on 30/01/2022 13:23:50 UTC
 <!--END_SECTION:waka-->
