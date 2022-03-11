@@ -32,7 +32,9 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 
 **Want other random stats? It's kinda bugged, sorry.**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2030%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
 
@@ -48,8 +50,8 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
-Tuesday      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+Monday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
 Wednesday    24 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
 Thursday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
 Friday       35 commits     ████████░░░░░░░░░░░░░░░░░   32.71% 
@@ -63,11 +65,9 @@ Sunday       27 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Standard ML              5 hrs 51 mins       ████████████████████████░   97.81% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+Standard ML              3 hrs 28 mins       █████████████████████████   99.84% 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -76,5 +76,5 @@ TeX                      0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/02/2022 13:26:32 UTC
+ Last Updated on 11/03/2022 13:28:40 UTC
 <!--END_SECTION:waka-->
