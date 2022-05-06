@@ -32,7 +32,7 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 
 **Want other random stats? It's kinda bugged, sorry.**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,10 +65,10 @@ Sunday       27 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Standard ML              3 hrs 21 mins       █████████████████░░░░░░░░   69.57% 
-JavaScript               1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   30.25% 
+Standard ML              3 hrs 25 mins       █████████████████░░░░░░░░   70.0% 
+JavaScript               1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.82% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
@@ -78,5 +78,5 @@ CSS                      0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/05/2022 13:43:31 UTC
+ Last Updated on 06/05/2022 13:40:52 UTC
 <!--END_SECTION:waka-->
