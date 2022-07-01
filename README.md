@@ -32,7 +32,7 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 
 **Want other random stats? It's kinda bugged, sorry.**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,8 +65,10 @@ Sunday       26 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        3 mins              ████████████████████████░   96.88% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+Python                   43 mins             ███████████████░░░░░░░░░░   61.84% 
+C                        23 mins             ████████░░░░░░░░░░░░░░░░░   33.24% 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 ```
 
@@ -75,5 +77,5 @@ Text                     0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 13:44:25 UTC
+ Last Updated on 01/07/2022 13:46:11 UTC
 <!--END_SECTION:waka-->
