@@ -32,47 +32,16 @@ I'm currently a college freshman at Carnegie Mellon University's School of Compu
 
 **Want other random stats? It's kinda bugged, sorry.**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-🌆 Daytime    63 commits     ██████████████░░░░░░░░░░░   55.75% 
-🌃 Evening    42 commits     █████████░░░░░░░░░░░░░░░░   37.17% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-Wednesday    30 commits     ██████░░░░░░░░░░░░░░░░░░░   26.55% 
-Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-Friday       35 commits     ███████░░░░░░░░░░░░░░░░░░   30.97% 
-Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-Sunday       28 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
 
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 13:37:33 UTC
+ Last Updated on 04/09/2022 13:39:02 UTC
 <!--END_SECTION:waka-->
