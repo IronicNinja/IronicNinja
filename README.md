@@ -74,5 +74,5 @@ Python                   54 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 13:41:54 UTC
+ Last Updated on 09/09/2022 13:56:32 UTC
 <!--END_SECTION:waka-->
