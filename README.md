@@ -1,6 +1,6 @@
 ### Hi there, I'm Evan 👋
 
-I'm currently a college freshman at Carnegie Mellon University's School of Computer Science!
+I'm currently a college sophomore at Carnegie Mellon University's School of Computer Science!
 
 **I 💗**:
   - 🌐 Web Development: 
