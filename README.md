@@ -65,7 +65,7 @@ Sunday       28 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   33 mins             █████████████████████████   100.0%
+Python                   31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +74,5 @@ Python                   33 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 13:47:12 UTC
+ Last Updated on 03/10/2022 14:04:33 UTC
 <!--END_SECTION:waka-->
