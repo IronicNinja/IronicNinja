@@ -32,7 +32,7 @@ I'm currently a college sophomore at Carnegie Mellon University's School of Comp
 
 **Want other random stats? It's kinda bugged, sorry.**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -74,5 +74,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/IronicNinja/IronicNinja/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 13:59:52 UTC
+ Last Updated on 01/11/2022 13:55:50 UTC
 <!--END_SECTION:waka-->
